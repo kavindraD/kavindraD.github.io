@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/assets/html5/mines/precache-manifest.f8b62c4fbfa1132007b3d8fa479903c6.js"
+  "assets/html5/mines/precache-manifest.62933a28386efda66c86704279fd38ca.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/assets/html5/mines/index.html", {
+workbox.routing.registerNavigationRoute("assets/html5/mines/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

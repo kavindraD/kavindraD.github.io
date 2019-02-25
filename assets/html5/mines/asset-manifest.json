@@ -1,13 +1,13 @@
 {
-  "main.css": "/assets/html5/mines/static/css/main.02129a94.chunk.css",
-  "main.js": "/assets/html5/mines/static/js/main.e14fe6ce.chunk.js",
-  "main.js.map": "/assets/html5/mines/static/js/main.e14fe6ce.chunk.js.map",
-  "static/js/1.15c61f72.chunk.js": "/assets/html5/mines/static/js/1.15c61f72.chunk.js",
-  "static/js/1.15c61f72.chunk.js.map": "/assets/html5/mines/static/js/1.15c61f72.chunk.js.map",
-  "runtime~main.js": "/assets/html5/mines/static/js/runtime~main.fec5dc15.js",
-  "runtime~main.js.map": "/assets/html5/mines/static/js/runtime~main.fec5dc15.js.map",
-  "static/css/main.02129a94.chunk.css.map": "/assets/html5/mines/static/css/main.02129a94.chunk.css.map",
-  "index.html": "/assets/html5/mines/index.html",
-  "precache-manifest.f8b62c4fbfa1132007b3d8fa479903c6.js": "/assets/html5/mines/precache-manifest.f8b62c4fbfa1132007b3d8fa479903c6.js",
-  "service-worker.js": "/assets/html5/mines/service-worker.js"
+  "main.css": "assets/html5/mines/static/css/main.02129a94.chunk.css",
+  "main.js": "assets/html5/mines/static/js/main.c26ec9ae.chunk.js",
+  "main.js.map": "assets/html5/mines/static/js/main.c26ec9ae.chunk.js.map",
+  "static/js/1.15c61f72.chunk.js": "assets/html5/mines/static/js/1.15c61f72.chunk.js",
+  "static/js/1.15c61f72.chunk.js.map": "assets/html5/mines/static/js/1.15c61f72.chunk.js.map",
+  "runtime~main.js": "assets/html5/mines/static/js/runtime~main.ce27d5b4.js",
+  "runtime~main.js.map": "assets/html5/mines/static/js/runtime~main.ce27d5b4.js.map",
+  "static/css/main.02129a94.chunk.css.map": "assets/html5/mines/static/css/main.02129a94.chunk.css.map",
+  "index.html": "assets/html5/mines/index.html",
+  "precache-manifest.62933a28386efda66c86704279fd38ca.js": "assets/html5/mines/precache-manifest.62933a28386efda66c86704279fd38ca.js",
+  "service-worker.js": "assets/html5/mines/service-worker.js"
 }
